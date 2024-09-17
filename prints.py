@@ -71,3 +71,6 @@ print('Hello World'.istitle()) # False
 print('Hello World'.title().istitle()) # True
 print('Hello World'.isupper()) # False
 print('HELLO WORLD'.isupper()) # True
+
+if __name__ == '__main__':
+    info()
